@@ -7,32 +7,65 @@
 </h1>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" alt="Cute Coding GIF" width="80" height="80"/>
-  
   <img
-    src="https://readme-typing-svg.demolab.com?font=Cute+font&size=24&pause=1000&color=F973C9&center=true&vCenter=true&width=600&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;A+Researcher+coding+for+a+better+world!+💖"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif"
+    alt="Cute Coding GIF"
+    width="80"
+    height="80"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=24&pause=1000&color=F973C9&center=true&vCenter=true&width=600&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;A+Researcher+coding+for+a+better+world!+💖"
     alt="Typing SVG"
   />
 </div>
 
 <p align="center">
   I build <b>Vision AI</b>, <b>privacy-preserving AI security</b>, and
-  <b>multi-modal NLP systems</b> with a strong focus on <b>explainability</b> and <b>real-world medical applications</b>.
+  <b>multi-modal NLP systems</b> with a strong focus on <b>explainability</b> and
+  <b>real-world medical applications</b>.
 </p>
 
 ---
 
-<h3 align="center">🔬 Research & Interests</h3>
+<h3 align="center">🔬 Research &amp; Interests</h3>
 
 <div align="center">
-| Area | Key Focus | Visual Badge |
-| :--- | :--- | :--- |
-| **Computer Vision (CV)** | Vision-Language Models (VLM) | 👁️‍🗨️ / ![VLM](https://img.shields.io/badge/VLM-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white) |
-| **Explainable AI (XAI)** | SHAP, LIME, Model Transparency | 💡 / ![XAI](https://img.shields.io/badge/XAI-00C4A7?style=for-the-badge&logo=google&logoColor=white) |
-| **AI Security** | Privacy-preserving ML | 🔒 / ![Security](https://img.shields.io/badge/AI_Security-000000?style=for-the-badge&logo=dependabot&logoColor=white) |
-| **NLP & Data Analytics** | RAG, Biomedical Text Mining | ✍️ / ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=openai&logoColor=white) |
-| **AI Modeling** | CNN, ResNet, YOLO, RF, XGBoost | 🧠 / ![Model](https://img.shields.io/badge/Modeling-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white) |
-<br/>
+
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Key Focus</th>
+    <th>Visual Badge</th>
+  </tr>
+  <tr>
+    <td><b>Computer Vision (CV)</b></td>
+    <td>Vision-Language Models (VLM)</td>
+    <td>👁️‍🗨️ &nbsp; <img src="https://img.shields.io/badge/VLM-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white" alt="VLM" /></td>
+  </tr>
+  <tr>
+    <td><b>Explainable AI (XAI)</b></td>
+    <td>SHAP, LIME, Model Transparency</td>
+    <td>💡 &nbsp; <img src="https://img.shields.io/badge/XAI-00C4A7?style=for-the-badge&logo=google&logoColor=white" alt="XAI" /></td>
+  </tr>
+  <tr>
+    <td><b>AI Security</b></td>
+    <td>Privacy-preserving ML</td>
+    <td>🔒 &nbsp; <img src="https://img.shields.io/badge/AI_Security-000000?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Security" /></td>
+  </tr>
+  <tr>
+    <td><b>NLP &amp; Data Analytics</b></td>
+    <td>RAG, Biomedical Text Mining</td>
+    <td>✍️ &nbsp; <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" /></td>
+  </tr>
+  <tr>
+    <td><b>AI Modeling</b></td>
+    <td>CNN, ResNet, YOLO, RF, XGBoost</td>
+    <td>🧠 &nbsp; <img src="https://img.shields.io/badge/Modeling-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Modeling" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -41,12 +74,15 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,github&perline=4" alt="Tech Stack Icons" />
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,github&perline=4"
+    alt="Tech Stack Icons"
+  />
 </p>
 
 <div align="center">
   <p>
-    ✨ <b>Data Science & Frameworks</b> ✨<br/>
+    ✨ <b>Data Science &amp; Frameworks</b> ✨<br/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/Matplotlib-111B31?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
@@ -62,7 +98,6 @@
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=chartreuse&hide_border=true&stroke=F973C9&ring=F973C9&fire=FF69B4"
     alt="GitHub Streak"
-    width="48%"
   />
 </div>
 
@@ -71,8 +106,12 @@
 <h3 align="center">💖 Connect with Me!</h3>
 
 <div align="center">
-  <a href="mailto:anegla040918@duksung.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/hae-in-seo-3278032bb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anegla040918@duksung.ac.kr">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hae-in-seo-3278032bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=HaeinSeo&color=F973C9" alt="Profile views" />
 </div>
 
