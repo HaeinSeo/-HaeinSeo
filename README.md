@@ -7,9 +7,7 @@
 </h1>
 
 <div align="center">
-  <img
-    src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif"
-  />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" alt="Cute Coding GIF" width="80" height="80"/>
 </div>
 
 <p align="center">
