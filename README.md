@@ -10,11 +10,17 @@ I build **Vision AI**, **privacy-preserving AI security**, and **multi-modal NLP
 - **AI Modeling** (CNN, ResNet, YOLO, RF, XGBoost, etc.)
 
 ### 🛠 Tech Stack
-![](https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,jupyter)
-![](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,github)
+![Python](https://skillicons.dev/icons?i=python)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+**Data Science:** NumPy · Pandas · Matplotlib  
+**Modeling:** CNN, ResNet, YOLO, RF, XGBoost
 
 ### 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=radical)
 
 ### 🌐 Find Me
 📧 anegla040918@duksung.ac.kr  
