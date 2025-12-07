@@ -18,7 +18,6 @@
 <div align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Cute+Font&size=24&duration=2000&pause=1000&color=F973C9&center=true&vCenter=true&width=650&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;Coding+for+a+Better+World+💖"
-    alt="Typing SVG"
   />
 </div>
 
@@ -109,7 +108,6 @@
   <a href="https://www.linkedin.com/in/hae-in-seo-3278032bb/">
     <img src="https://img.shields.io/badge/LinkedIn-4B9CE5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HaeinSeo&color=F973C9" />
 </div>
 
 <br/>
