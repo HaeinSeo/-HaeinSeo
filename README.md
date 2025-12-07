@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Haein
 
-I build **Vision AI**, **privacy-preserving AI security**, and **multi-modal NLP systems**
-with a focus on **explainability** and **real-world medical applications**.
-
----
+I build **Vision AI**, **privacy-preserving AI security**, and **multi-modal NLP systems** with a focus on **explainability** and **real-world medical applications**.
 
 ### 🔬 Research & Interests
 - **Computer Vision (CV)** · Vision-Language Models (VLM)
@@ -12,18 +9,12 @@ with a focus on **explainability** and **real-world medical applications**.
 - **NLP & Data Analytics** (RAG, biomedical text mining)
 - **AI Modeling** (CNN, ResNet, YOLO, RF, XGBoost, etc.)
 
----
-
 ### 🛠 Tech Stack
-![](https://skillicons.dev/icons?i=python,pytorch,opencv,yolo,jupyter,github,linux,docker)
-
----
+![](https://skillicons.dev/icons?i=python,tensorflow,keras,opencv,jupyter)
+![](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,github)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HaeinSeo&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=radical)
-
----
 
 ### 🌐 Find Me
 📧 anegla040918@duksung.ac.kr  
