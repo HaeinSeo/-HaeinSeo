@@ -13,7 +13,6 @@ I build **Vision AI**, **privacy-preserving AI security**, and **multi-modal NLP
 ![Python](https://skillicons.dev/icons?i=python)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 **Data Science:** NumPy · Pandas · Matplotlib  
