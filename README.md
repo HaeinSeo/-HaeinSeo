@@ -7,7 +7,12 @@
 </h1>
 
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" alt="Cute Coding GIF" width="80" height="80"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc3cXh4MGQ5YnA1Y2lvcXNtOHhtMzY4YmVuOGhtNWVqazdlajg0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wIUQQ07BHzDry/giphy.gif" alt="Cute Coding GIF" width="80" height="80"/>
+  
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Cute+font&size=24&pause=1000&color=F973C9&center=true&vCenter=true&width=600&lines=Vision+AI+%7C+XAI+%7C+AI+Security;Multi-modal+NLP+%26+Medical+AI+Researcher;Making+AI+Explainable+%26+Trustworthy+✨;A+Researcher+coding+for+a+better+world!+💖"
+    alt="Typing SVG"
+  />
 </div>
 
 <p align="center">
@@ -20,7 +25,6 @@
 <h3 align="center">🔬 Research & Interests</h3>
 
 <div align="center">
-
 | Area | Key Focus | Visual Badge |
 | :--- | :--- | :--- |
 | **Computer Vision (CV)** | Vision-Language Models (VLM) | 👁️‍🗨️ / ![VLM](https://img.shields.io/badge/VLM-FF69B4?style=for-the-badge&logo=pytorch&logoColor=white) |
@@ -37,7 +41,7 @@
 <h3 align="center">🛠 Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,github,linux&perline=4" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,jupyter,github&perline=4" alt="Tech Stack Icons" />
 </p>
 
 <div align="center">
@@ -55,11 +59,6 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HaeinSeo&show_icons=true&theme=chartreuse&hide_border=true&count_private=true&title_color=F973C9&icon_color=FF69B4"
-    alt="Haein's GitHub Stats"
-    width="48%"
-  />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=HaeinSeo&theme=chartreuse&hide_border=true&stroke=F973C9&ring=F973C9&fire=FF69B4"
     alt="GitHub Streak"
